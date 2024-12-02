@@ -1,0 +1,23 @@
+TODO 
+
+
+[] create PostgreSQL databse 
+[] connect the app and database 
+[] plan API endpoints 
+[] Set up user login 
+[] set up user registration 
+[] set up local login 
+[] set up product endpoints
+[] set up user endpoints 
+[] set up cart endpoint 
+[] set up checkout endpoint
+[] set up order endpoints
+
+
+In progress
+
+[] Set up an express server 
+[] Design the databse 
+
+
+Done 

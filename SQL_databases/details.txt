@@ -1,0 +1,7 @@
+Neded:
+
+Database for users 
+
+Database for products 
+
+Database for orders 
