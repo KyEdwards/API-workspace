@@ -1,0 +1,5 @@
+API testing done via Insomnia on localhost:3000
+
+
+XAMPP and http://localhost/phpmyadmin for viewing and configuring the database. 
+

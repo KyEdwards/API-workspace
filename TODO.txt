@@ -2,7 +2,7 @@ TODO
 
 
  
-[] connect the app and database 
+
 [] plan API endpoints 
 [] Set up user login 
 [] set up user registration 
@@ -19,5 +19,6 @@ In progress
 [] Set up an express server 
 [] Design the databse 
 [] create PostgreSQL databse
+[] connect the app and database 
 
 Done 

@@ -1,0 +1,1 @@
+Able to add to products table via a post request
