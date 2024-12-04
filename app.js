@@ -1,11 +1,8 @@
-const express = require('express')
-const app = express()
-const port = 3000
+const express = require('express');
 
-app.get('/', (req, res) => {
-  res.send('Hello World!')
-})
+const app = express(); 
 
-app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
-})
+const productsRoute = require('./SQL_databases/routes/products');
+app.use('/products', productsRoute);
+
+module.exports = app;
