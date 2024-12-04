@@ -1,0 +1,2 @@
+Able to add to products table via a post request
+Able to fin d a singular product Via its ID 
