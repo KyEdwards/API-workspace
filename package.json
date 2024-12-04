@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@sequelize/mysql": "^7.0.0-alpha.43",
     "express": "^4.21.1",
     "mysql2": "^3.11.5",
     "sequelize": "^6.37.5"
