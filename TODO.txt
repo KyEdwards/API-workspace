@@ -7,7 +7,7 @@ TODO
 [] Set up user login 
 [] set up user registration 
 [] set up local login 
-[] set up product endpoints
+
 [] set up user endpoints 
 [] set up cart endpoint 
 [] set up checkout endpoint
@@ -16,9 +16,11 @@ TODO
 
 In progress
 
-[] Set up an express server 
 [] Design the databse 
-[] create PostgreSQL databse
-[] connect the app and database 
+[] set up product endpoints
 
 Done 
+
+[x] Set up an express server 
+[x] create PostgreSQL databse
+[x] connect the app and database 

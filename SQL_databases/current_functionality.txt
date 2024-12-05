@@ -1,2 +1,3 @@
 Able to add to products table via a post request
-Able to fin d a singular product Via its ID 
+Able to find a singular product Via its ID 
+Create, Read, Update and Destroy now avalable on the products databse. 
