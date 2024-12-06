@@ -24,15 +24,15 @@ CRUD stands for create, read, update, delete.
 ________________________
 OBJECTIVES:
 
-[] Design the database
+[x] Design the database
 
 [] Build a fucntioing API using Express, Node.js and postgress.
 
 [] Alow user registering and login via the API
 
-[] Allow Crud opperations on products
+[x] Allow Crud opperations on products
 
-[] Allow Crud opperations on accounts
+[x] Allow Crud opperations on accounts
 
 [] Allow Crud opperations on user carts
 
@@ -40,4 +40,4 @@ OBJECTIVES:
 
 [] Allow Crud opperations on orders
 
-[] Document the API using Swagge
+[] Document the API using Swagger

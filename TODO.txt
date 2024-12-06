@@ -5,22 +5,21 @@ TODO
 
 [] plan API endpoints 
 [] Set up user login 
-[] set up user registration 
 [] set up local login 
-
-[] set up user endpoints 
-[] set up cart endpoint 
 [] set up checkout endpoint
 [] set up order endpoints
 
 
 In progress
 
-[] Design the databse 
-[] set up product endpoints
+[] set up cart endpoint 
+[] set up user registration 
 
 Done 
 
 [x] Set up an express server 
 [x] create PostgreSQL databse
 [x] connect the app and database 
+[x] set up user endpoints 
+[x] set up product endpoints
+[x] Design the databse 

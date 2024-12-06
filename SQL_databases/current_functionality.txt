@@ -1,3 +1,9 @@
 Able to add to products table via a post request
 Able to find a singular product Via its ID 
 Create, Read, Update and Destroy now avalable on the products databse. 
+Create, Read, Update and Destroy now avalable on the customer databse. 
+
+Cart table currently only has the finished functionality to view a singular cart
+
+
+orders table created but with no functionality. 
